@@ -43,18 +43,16 @@ input{
     font-size: 2em;
     background-color: #333;
     color: #eee;
-    text-align: center;
+    text-align: right;
 }
 
 .vari{
     background-color: rgb(70,70,70);
     color: #eee;
 }
-
 .vari:hover{
     background-color:#222;
 }
-
 .equalbtn{
     background: rgb(255, 168, 51);
 }
