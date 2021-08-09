@@ -45,3 +45,16 @@ input{
     color: #eee;
     text-align: center;
 }
+
+.vari{
+    background-color: rgb(70,70,70);
+    color: #eee;
+}
+
+.vari:hover{
+    background-color:#222;
+}
+
+.equalbtn{
+    background: rgb(255, 168, 51);
+}
